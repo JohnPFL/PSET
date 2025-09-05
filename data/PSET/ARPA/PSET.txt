@@ -1,0 +1,1254 @@
+bait|B EY1 T
+bate|B EY1 T
+torment|T AO1 R M EH2 N T
+babe|B EY1 B
+ait|EY1 T
+bald|B AO1 L D
+bawled|B AO1 L D
+hairless|HH EH1 R L AH0 S
+baller|B AO1 L ER0
+bad|B AE1 D
+bawl|B AO1 L
+ball|B AO1 L
+holler|HH AA1 L ER0
+baal|B AA1 L
+baw|B AO1
+band|B AE1 N D
+banned|B AE1 N D
+ensemble|AA0 N S AA1 M B AH0 L
+bagged|B AE1 G D
+and|AH0 N D
+bare|B EH1 R
+bear|B EH1 R
+nude|N UW1 D
+baar|B AA1 R
+bade|B EY1 D
+cash|K AE1 SH
+cache|K AE0 SH EY1
+money|M AH1 N IY0
+bash|B AE1 SH
+cast|K AE1 S T
+cantor|K AE1 N T ER0
+canter|K AE1 N T ER0
+chanter|CH AE1 N T ER0
+banter|B AE1 N T ER0
+cantors|K AE1 N T ER0 Z
+cell|S EH1 L
+sell|S EH1 L
+cage|K EY1 JH
+bel|B EH1 L
+bell|B EH1 L
+cue|K Y UW1
+queue|K Y UW1
+hint|HH IH1 N T
+clew|K L UW1
+due|D Y UW1
+earn|ER1 N
+urn|ER1 N
+acquire|AH0 K W AY1 ER0
+an|AE1 N
+arn|AA1 R N
+new|N UW1
+knew|N Y UW1
+recent|R IY1 S AH0 N T
+boo|B UW1
+anew|AH0 N UW1
+know|N OW1
+no|N OW1
+learn|L ER1 N
+beau|B OW1
+enow|IH0 N OW0
+main|M EY1 N
+mean|M IY1 N
+central|S EH1 N T R AH0 L
+bain|B EY1 N
+amain|AH0 M AY0 N
+meet|M IY1 T
+meat|M IY1 T
+encounter|IH0 N K AW1 N ER0
+beat|B IY1 T
+beet|B IY1 T
+medal|M EH1 D AH0 L
+meddle|M EH1 D AH0 L
+reward|R IH0 W AO1 R D
+bedel|B IH0 D EH1 L
+meal|M IY1 L
+mind|M AY1 N D
+mined|M AY1 N D
+psyche|S AY1 K IY0
+bind|B AY1 N D
+find|F AY1 N D
+minor|M AY1 N ER0
+miner|M AY1 N ER0
+secondary|S EH1 K AH0 N D EH2 R IY0
+dinar|D IH0 N AA1 R
+manor|M AE1 N ER0
+muscle|M AH1 S AH0 L
+mussel|M AH1 S AH0 L
+tissue|T IH1 S Y UW2
+bustle|B AH1 S AH0 L
+muscled|M AH1 S AH0 L D
+naval|N EY1 V AH0 L
+navel|N EY1 V AH0 L
+marine|M ER0 IY1 N
+caval|K EY1 V AH0 L
+aval|EY1 V AH0 L
+pain|P EY1 N
+pane|P EY1 N
+agony|AE1 G AH0 N IY0
+bain|B EY1 N
+main|M EY1 N
+peak|P IY1 K
+peek|P IY1 K
+hill|HH IH1 L
+beak|B IY1 K
+apeak|AH0 P IY2 K
+patience|P EY1 SH AH0 N S
+patients|P EY1 SH AH0 N T S
+composure|K AH0 M P OW1 ZH ER0
+patient|P EY1 SH AH0 N T
+patiency|P EY1 SH AH0 N T S IH0
+wrap|R AE1 P
+rap|R AE1 P
+blanket|B L AE1 NG K AH0 T
+map|M AE1 P
+brat|B R AE1 T
+rest|R EH1 S T
+wrest|R EH1 S T
+vacation|V EY0 K EY1 SH AH0 N
+best|B EH1 S T
+cest|CH EH0 S T
+rude|R UW1 D
+rued|R UW1 D
+blunt|B L AH1 N T
+bood|B UW1 D
+crude|K R UW1 D
+sail|S EY1 L
+sale|S EY1 L
+cruise|K R UW1 Z
+bail|B EY1 L
+ail|EY1 L
+scene|S IY1 N
+seen|S IY1 N
+setting|S EH1 T IH0 NG
+bean|B IY1 N
+scent|S EH1 N T
+see|S IY1
+sea|S IY1
+watch|W AA1 CH
+mixed|M IH1 K S T
+bee|B IY1
+tense|T EH1 N S
+tents|T EH1 N T S
+strained|S T R EY1 N D
+cense|S EH1 N S
+dense|D EH1 N S
+warn|W AO1 R N
+worn|W AO1 R N
+advert|AE1 D V ER0 T
+born|B AO1 R N
+arn|AA1 R N
+weak|W IY1 K
+week|W IY1 K
+fragile|F R AE1 JH AH0 L
+beak|B IY1 K
+peak|P IY1 K
+accept|AH0 K S EH1 P T
+except|IH0 K S EH1 P T
+welcome|W EH1 L K AH0 M
+accepts|AE0 K S EH1 P T S
+accent|AH0 K S EH1 N T
+marry|M EH1 R IY0
+merry|M EH1 R IY0
+wed|W EH1 D
+barie|B EH1 R IY0
+barry|B EH1 R IY0
+ascent|AH0 S EH1 N T
+assent|AH0 S EH1 N T
+climb|K L AY1 M
+aidant|EY1 D EH1 N T
+accent|AH0 K S EH1 N T
+away|AH0 W EY1
+aweigh|AH0 W EY2
+distant|D IH1 S T AH0 N T
+awake|AH0 W EY1 K
+alway|AO1 L W EY2
+barren|B EH1 R AH0 N
+baron|B AE1 R AH0 N
+sterile|S T EH1 R AH0 L
+backen|B AE1 K AH0 N
+barken|B AA R K AH0 N
+bizarre|B AH0 Z AA1 R
+bazaar|B AH0 Z AA1 R
+strange|S T R EY1 N JH
+besour|B EY1 Z AA1 R
+bizarrely|B AH0 Z AA1 R L IY0
+beat|B IY1 T
+beet|B IY1 T
+pound|P AW1 N D
+baht|B AA1 T
+bead|B IY1 D
+cast|K AE1 S T
+caste|K AE1 S T
+troupe|T R UW1 P
+bast|B AE1 S T
+ast|AE1 S T
+choir|K W AY1 ER0
+quire|K W AY1 R
+chorus|K AO1 R AH0 S
+coir|K OY1 R
+chair|CH EH1 R
+sight|S AY1 T
+cite|S AY1 T
+vision|V IH1 ZH AH0 N
+bight|B AY1 T
+light|L AY1 T
+close|K L OW1 S
+clothes|K L OW1 Z
+near|N IH1 R
+cloak|K L OW1 K
+lose|L UW1 Z
+cocks|K AA1 K S
+cox|K AA1 K S
+roosters|R UW1 S T ER0 Z
+bocce|B OW1 CH IY0
+cocky|K AA1 K IY0
+counsel|K AW1 N S AH0 L
+council|K AW1 N S AH0 L
+lawyer|L OY1 ER0
+consul|K AA1 N S AH0 L
+counseled|K AW1 N S AH0 L D
+creek|K R IY1 K
+creak|K R IY1 K
+river|R IH1 V ER0
+areek|AH0 R IY1 K
+reek|R IY1 K
+dear|D IH1 R
+deer|D IH1 R
+beloved|B IH0 L AH1 V D
+ar|AA1 R
+bear|B EH1 R
+duel|D UW1 AH0 L
+dual|D UW1 L
+fight|F AY1 T
+dewan|D UW1 AH0 N
+duels|D UW1 AH0 L Z
+fate|F EY1 T
+fete|F EY1 T
+destiny|D EH1 S T AH0 N IY0
+bait|B EY1 T
+hate|HH EY1 T
+fair|F EH1 R
+fare|F EH1 R
+just|JH AH1 S T
+bare|B EH1 R
+fail|F EY1 L
+ferry|F EH1 R IY0
+fairy|F EH1 R IY0
+boat|B OW1 T
+barie|B EH1 R IY0
+berry|B EH1 R IY0
+faze|F EY1 Z
+phase|F EY1 Z
+bother|B AA1 DH ER0
+baize|B EY1 Z
+fade|F EY1 D
+find|F AY1 N D
+fined|F AY1 N D
+encounter|IH0 N K AW1 N ER0
+fand|F AH0 N D
+mind|M AY1 N D
+idol|AY1 D AH0 L
+idle|AY1 D AH0 L
+hero|HH IY1 R OW0
+addle|AE1 D AH0 L
+idyl|AY0 D IH1
+whole|HH OW1 L
+hole|HH OW1 L
+complete|K AH0 M P L IY1 T
+whose|HH UW1 Z
+whorl|HH W AO1 R L
+knight|N AY1 T
+night|N AY1 T
+horseman|HH AO1 R S M AH0 N
+bight|B AY1 T
+knights|N AY1 T S
+knows|N OW1 Z
+nose|N OW1 Z
+comprehends|K AA2 M P R IY0 HH EH1 N D Z
+bose|B OW1 Z
+know|N OW1
+lead|L IY1 D
+led|L EH1 D
+guide|G AY1 D
+bead|B IY1 D
+read|R IY1 D
+links|L IH1 NG K S
+lynx|L IH1 NG K S
+connections|K AH0 N EH1 K SH AH0 N Z
+lanx|L AE1 N K S
+blinks|B L IH1 NG K S
+manner|M AE1 N ER0
+manor|M AE1 N ER0
+demeanor|D IH0 M IY1 N ER0
+banner|B AE1 N ER0
+banned|B AE1 N D
+air|EH1 R
+heir|EH1 R
+breeze|B R IY1 Z
+ear|IH1 R
+amir|AH0 M IH1 R
+aloud|AH0 L AW1 D
+allowed|AH0 L AW1 D
+loudly|L AW1 D L IY0
+cloud|K L AW1 D
+aloudly|AH0 L AW1 D L IY0
+awe|AA1
+oar|AO1 R
+amaze|AH0 M EY1 Z
+ad|AE1 D
+ade|EY1 D
+chance|CH AE1 N S
+chants|CH AE1 N T S
+probability|P R AA2 B AH0 B IH1 L AH0 T IY2
+channer|CH AE1 N AH0 R
+chancel|CH AE1 N S AH0 L
+sink|S IH1 NG K
+sync|S IH1 NG K
+fall|F AA1 L
+awink|AH0 W IH NG K
+bink|B IH1 NG K
+cozen|K OW1 Z AH0 N
+cosine|K AH0 S IY1 N IY0
+deceive|D IH0 S IY1 V
+codon|K OW1 D AE0 N
+copen|K OW1 P AH0 N
+dessert|D IH0 Z ER1 T
+desert|D IH0 Z ER1 T
+sweet|S W IY1 T
+deceit|D AH0 S IY1 T
+deserts|D IH0 Z ER1 T S
+die|D AY1
+dye|D AY1
+perish|P EH1 R IH0 SH
+awee|AH0 W IY1
+died|D AY1 D
+heal|HH IY1 L
+heel|HH IY1 L
+recover|R IH0 K AH1 V ER0
+aweel|AH0 W IY2 L
+neal|N IY1 L
+hear|HH IY1 R
+here|HH IY1 R
+listen|L IH1 S AH0 N
+ar|AA1 R
+bear|B EH1 R
+pair|P EH1 R
+pear|P EH1 R
+couple|K AH1 P AH0 L
+bare|B EH1 R
+fair|F EH1 R
+mourning|M AO1 R N IH0 NG
+morning|M AO1 R N IH0 NG
+grieving|G R IY1 V IH0 NG
+borning|B AO1 R N IH0 NG
+mournings|M AO1 R N IH0 NG Z
+peace|P IY1 S
+piece|P IY1 S
+truce|T R UW1 S
+cease|S IY1 S
+peach|P IY1 CH
+plain|P L EY1 N
+plane|P L EY1 N
+unadorned|AH2 N AH0 D AO1 R N D
+blain|B L EY1 N
+plainer|P L EY1 N ER0
+pour|P AO1 R
+poor|P UW1 R
+serve|S ER1 V
+boar|B AO1 R
+dour|D AW1 ER0
+pray|P R EY1
+prey|P R EY1
+wish|W IH1 SH
+array|ER0 EY1
+bray|B R EY1
+profit|P R AA1 F AH0 T
+prophet|P R AA1 F AH0 T
+earnings|ER1 N IH0 NG Z
+profits|P R AA1 F IH0 T S
+profited|P R AA1 F AH0 T AH0 D
+sole|S OW1 L
+soul|S OW1 L
+exclusive|IH0 K S K L UW1 S IH0 V
+pole|P OW1 L
+bole|B OW1 L
+sum|S AH1 M
+some|S AH1 M
+aggregate|AE1 G R AH0 G IH0 T
+bum|B AH1 M
+tum|T AH0 M
+stairs|S T EH1 R Z
+stares|S T EH1 R Z
+steps|S T EH1 P S
+staired|S T EH1 R D
+hole|HH OW L
+stair|S T EH1 R
+steel|S T IY1 L
+steal|S T IY1 L
+metal|M EH1 T AH0 L
+skeel|S K IY1 L
+steed|S T IY1 D
+sweet|S W IY1 T
+suite|S W IY1 T
+dessert|D IH0 Z ER1 T
+queet|K W IY1 T
+sheet|SH IY1 T
+tale|T EY1 L
+tail|T EY1 L
+story|S T AO1 R IY0
+bail|B EY1 L
+ale|EY1 L
+way|W EY1
+weigh|W EY1
+route|R AW1 T
+bae|B AY1
+away|AH0 W EY1
+load|L OW1 D
+lode|L OW1 D
+fill|F IH1 L
+baud|B AO1 D
+goadh|G OW1 D
+moor|M UH1 R
+more|M AO1 R
+wasteland|W EY1 S T L AE2 N D
+azure|AE1 ZH ER0
+boor|B UH1 R
+odd|AA1 D
+od|AA1 D
+strange|S T R EY1 N JH
+aal|AA1 L
+dodd|D AA1 D
+whet|W EH1 T
+wet|W EH1 T
+sharpen|SH AA1 R P AH0 N
+bet|B EH1 T
+whether|W EH1 DH ER
+tow|T OW1
+toe|T OW1
+pull|P UH1 L
+two|T UW1
+to|T UW1
+vile|V AY1 L
+vial|V AY1 AH0 L
+bad|B AE1 D
+bile|B AY1 L
+aile|EY1 L
+vain|V EY1 N
+vane|V EY1 N
+egotistical|IY2 G AH0 T IH1 S T IH0 K AH0 L
+bain|B EY1 N
+pain|P EY1 N
+mail|M EY1 L
+male|M EY1 L
+letter|L EH1 T ER0
+bail|B EY1 L
+rail|R EY1 L
+maze|M EY1 Z
+maize|M EY1 Z
+labyrinth|L AE1 B ER0 IH2 N TH
+baize|B EY1 Z
+amaze|AH0 M EY1 Z
+phase|F EY1 Z
+faze|F EY1 Z
+stage|S T EY1 JH
+baize|B EY1 Z
+chase|CH EY1 S
+pail|P EY1 L
+pale|P EY1 L
+bucket|B AH1 K AH0 T
+bail|B EY1 L
+paid|P EY1 D
+grown|G R OW1 N
+groan|G R OW1 N
+adult|AE1 D AH0 L T
+brown|B R AW1 N
+growl|G R AW1 L
+poll|P OW1 L
+pole|P OW1 L
+vote|V OW1 T
+baal|B AA1 L
+boll|B OW1 L
+wit|W IH1 T
+whit|W IH1 T
+wisdom|W IH1 Z D AH0 M
+ait|EY1 T
+wits|W IH1 T S
+high|HH AY1
+hi|HH AY1
+tall|T AO1 L
+by|B AY1
+heigh|HH AY1
+ad|AE1 D
+add|AE1 D
+announcement|AH0 N AW1 N S M EH0 N T
+at|AE1 T
+a|AH0
+affect|AH0 F EH1 K T
+effect|IY1 F EH0 K T
+alter|AO1 L T ER0
+addict|AH0 D IH1 K T
+affected|AH0 F EH1 K T IH0 D
+ail|EY1 L
+ale|EY1 L
+bother|B AA1 DH ER0
+aer|EY1 IY1 AA1 R
+ails|EY1 L Z
+all|AO1 L
+awl|AO1 L
+entire|IH0 N T AY1 ER0
+aal|AA1 L
+all-in|AO1 L, IH1 N
+bee|B IY1
+be|B IY0
+party|P AA1 R T IY0
+awee|AH0 W IY1
+beef|B IY1 F
+beach|B IY1 CH
+beech|B IY1 CH
+coast|K OW1 S T
+batch|B AE1 CH
+beachy|B IY1 CH IY0
+beau|B OW1
+bow|B AW1
+boyfriend|B OY1 F R EH2 N D
+cho|CH OW1
+bead|B IY1 D
+bin|B IH1 N
+been|B AH0 N
+box|B AA1 K S
+ban|B AE1 N
+bins|B IH1 N Z
+billed|B IH1 L D
+build|B IH1 L D
+advertised|AE1 D V ER0 T AY2 Z D
+aisled|AY1 AH0 L D
+balled|B AO1 L D
+boar|B AO1 R
+bore|B AO1 R
+pig|P IH1 G
+baar|B AA1 R
+bar|B AA1 R
+board|B AO1 R D
+bored|B AO1 R D
+panel|P AE1 N AH0 L
+bald|B AO1 L D
+aboard|AH0 B AO1 R D
+border|B AO1 R D ER0
+boarder|B AO1 R D ER0
+edge|EH1 JH
+balder|B AO1 L D ER0
+birder|B ER1 D ER0
+bolder|B OW1 L D ER0
+boulder|B OW1 L D ER0
+adventurous|AH0 D V EH1 N CH ER0 AH0 S
+bolter|B OW1 L T ER0
+boder|B OW1 D ER0
+boy|B OY1
+buoy|B UW1 IY0
+guy|G AY1
+bae|B AY1
+toy|T OY1
+break|B R EY1 K
+brake|B R EY1 K
+crack|K R AE1 K
+areek|AH0 R IY1 K
+beak|B IY1 K
+bred|B R EH1 D
+bread|B R EH1 D
+cultivated|K AH1 L T AH0 V EY2 T IH0 D
+brad|B R AE1 D
+ared|AH0 R EH1 D
+bridal|B R AY1 D AH0 L
+bridle|B R AY1 D AH0 L
+espousal|IH0 S P AW1 Z AH0 L
+brickel|B R IH1 K AH0 L
+bridale|B R AY1 D EY0 L
+broach|B R OW1 CH
+brooch|B R OW1 CH
+bring up|B R IH1 NG AH1 P
+breach|B R IY1 CH
+abroach|AH0 B R OW1 CH
+sense|S EH1 N S
+cents|S EH1 N S
+feel|F IY1 L
+cent|S EH1 N T
+cense|S EH1 N S
+cereal|S IH1 R IY0 AH0 L
+serial|S IH1 R IY2 AH0 L
+wheat|W IY1 T
+aerial|EH1 R IY0 AH0 L
+ceral|S IH1 R AH0 L
+chaste|CH EY1 S T
+chased|CH EY1 S T
+celibate|S EH1 L IH0 B AH0 T
+chaped|CH AE1 P AH0 D
+caste|K AE1 S T
+shoot|SH UW1 T
+chute|SH UW1 T
+blast|B L AE1 S T
+boot|B UW1 T
+hoot|HH UW1 T
+cite|S AY1 T
+sight|S AY1 T
+quote|K W OW1 T
+bight|B AY1 T
+bite|B AY1 T
+clause|K L AO1 Z
+claws|K L AO1 Z
+article|AA1 R T AH0 K AH0 L
+chlore|K L AO1 R
+cause|K AO1 Z
+coarse|K AO1 R S
+course|K AO1 R S
+rude|R UW1 D
+carse|K AA1 R S
+coarser|K AO1 R S ER0
+kernel|K ER1 N AH0 L
+colonel|K ER1 N AH0 L
+nut|N AH1 T
+canal|K AH0 N AE1 L
+kennel|K EH1 N AH0 L
+coup|K UW1
+coo|K UW1
+overthrow|OW1 V ER0 TH R OW2
+cap|K AE1 P
+coups|K UW1 Z
+core|K AO1 R
+corps|K AO1 R
+basis|B EY1 S AH0 S
+boar|B AO1 R
+bore|B AO1 R
+creak|K R IY1 K
+creek|K R IY1 K
+screech|S K R IY1 CH
+areek|AH0 R IY1 K
+creaks|K R IY1 K S
+cruise|K R UW1 Z
+crews|K R UW1 Z
+sailing|S EY1 L IH0 NG
+bruise|B R UW1 Z
+bruiser|B R UW1 Z ER0
+symbol|S IH1 M B AH0 L
+cymbal|S IH1 M B AH0 L
+emblem|EH1 M B L AH0 M
+semple|S EH1 M P AH0 L
+symbols|S IH1 M B AH0 L Z
+faint|F EY1 N T
+feint|F EY1 N T
+vague|V EY1 G
+fent|F EH1 N T
+paint|P EY1 N T
+daze|D EY1 Z
+days|D EY1 Z
+stupor|S T UW1 P ER0
+baize|B EY1 Z
+dazed|D EY1 Z D
+do|D UW1
+due|D Y UW1
+achieve|AH0 CH IY1 V
+boo|B UW1
+ado|AH0 D UW1
+discussed|D IH0 S K AH1 S T
+disgust|D IH0 S G AH1 S T
+analyzed|AE1 N AH0 L AY2 Z D
+discuss|D IH0 S K AH1 S
+discusser|D IH0 S K AH1 S ER0
+dough|D OW1
+doe|D OW1
+bread|B R EH1 D
+buff|B AH1 F
+bough|B AW1
+doughs|D OW1 Z
+doze|D OW1 Z
+breads|B R EH1 D Z
+doffer|D AO1 F ER
+dough|D OW1
+draft|D R AE1 F T
+draught|D R AE1 F T
+blueprint|B L UW1 P R IH2 N T
+craft|K R AE1 F T
+raft|R AE1 F T
+facts|F AE1 K S
+fax|F AE1 K S
+reality|R IY2 AE1 L AH0 T IY2
+facty|F AE1 K T IY0
+chimney|CH IH1 M N IY0
+facks|F AE2 K S
+feat|F IY1 T
+feet|F IY1 T
+triumph|T R AY1 AH0 M F
+beat|B IY1 T
+meat|M IY1 T
+file|F AY1 L
+phial|F IY0 AH0 L
+record|R EH1 K ER0 D
+bile|B AY1 L
+mile|M AY1 L
+flair|F L EH1 R
+flare|F L EH1 R
+ability|AH0 B IH1 L AH0 T IY2
+blair|B L EH1 R
+lair|L EH1 R
+flee|F L IY1
+flea|F L IY1
+depart|D IH0 P AA1 R T
+alley|AE1 L IY0
+alee|AH0 L IY1
+flue|F L UW1
+flu|F L UW1
+chimeny|CHIMENY
+blue|B L UW1
+clue|K L UW1
+flocks|F L AA1 K S
+phlox|F L AA1 K S
+assembly|AH0 S EH1 M B L IY0
+flax|F L AE1 K S
+flock|F L AA1 K
+floe|F L OW1
+flow|F L OW1
+iceberg|AY1 S B ER0 G
+alo|AA1 L OW0
+aloe|AE1 L OW2
+flour|F L AW1 ER0
+flower|F L AW1 ER0
+blossom|B L AA1 S AH0 M
+clour|K L AW1 R
+floury|F L UH0 R IY0
+foreword|F AO1 R W ER2 D
+forward|F AO1 R W ER0 D
+preamble|P R IY0 AE1 M B AH0 L
+forwarder|F AO1 R W ER0 D ER0
+foreworld|F AO1 R W ER1 L D
+foul|F AW1 L
+fowl|F AW1 L
+fetid|F EH1 T AH0 D
+bool|B UW1 L
+afoul|AH0 F AW1 L
+freeze|F R IY1 Z
+frieze|F R IY1 Z
+refrigerate|R IH0 F R IH1 JH ER0 EY2 T
+breeze|B R IY1 Z
+preeze|P R IY1 S Z
+friar|F R AY1 ER0
+fryer|F R AY1 ER0
+monk|M AH1 NG K
+briar|B R AY1 ER0
+briar|B R AY1 ER0
+gild|G IH1 L D
+guild|G IH1 L D
+adorn|AH0 D AO1 R N
+aisled|AY1 AH0 L D
+geld|G EH1 L D
+nice|N AY1 S
+gneiss|N AY1 S
+cordial|K AO1 R JH AH0 L
+ice|AY1 S
+dice|D AY1 S
+guerrilla|G ER0 IH1 L AH0
+gorilla|G ER0 IH1 L AH0
+commando|K AH0 M AE1 N D OW2
+parilla|P AH0 R IH1 L AH0
+guerrillas|G ER0 IH1 L AH0 Z
+great|G R EY1 T
+grate|G R EY1 T
+amazing|AH0 M EY1 Z IH0 NG
+arite|ER0 AY2 T
+creat|K R IY0 EY1 T
+graze|G R EY1 Z
+grays|G R EY1 Z
+scrape|S K R EY1 P
+braise|B R EY1 Z
+braze|B R AH0 Z
+grisly|G R IH1 Z L IY0
+grizzly|G R IH1 Z L IY0
+horrible|HH AO1 R AH0 B AH0 L
+grimly|G R IH1 M L IY0
+gristly|G R IH1 S T L IY0
+groan|G R OW1 N
+grown|G R OW1 N
+grunt|G R AH1 N T
+crone|K R OW1 N
+groans|G R OW1 N Z
+guessed|G EH1 S T
+guest|G EH1 S T
+estimated|EH1 S T AH0 M EY2 T AH0 D
+best|B EH1 S T
+guesser|G EH1 S ER0
+hairy|HH EH1 R IY0
+Harry|HH EH1 R IY0
+furry|F ER1 IY0
+barie|B EH1 R IY0
+dairy|D EH1 R IY0
+hall|HH AO1 L
+haul|HH AO1 L
+entrance|EH1 N T R AH0 N S
+ball|B AO1 L
+all|AO1 L
+have|HH AE1 V
+halve|HH AE1 V
+acquire|AH0 K W AY1 ER0
+cave|K EY1 V
+rave|R EY1 V
+heart|HH AA1 R T
+hart|HH AA1 R T
+love|L AH1 V
+burt|B ER1 T
+hear|HH IY1 R
+heard|HH ER1 D
+herd|HH ER1 D
+listened|L IH1 S AH0 N D
+beard|B IH1 R D
+heart|HH AA1 R T
+heroine|HH EH1 R OW0 AH0 N
+heroin|HH EH1 R OW0 AH0 N
+champion|CH AE1 M P IY0 AH0 N
+hairpin|HH EH1 R P IH0 N
+heroize|HH IY1 R OW0 AY2 Z
+hire|HH AY1 ER0
+higher|HH AY1 ER0
+employ|IH0 M P L OY1
+byre|B AY1 R
+aire|EH1 R
+hoard|HH AO1 R D
+horde|HH AO1 R D
+accumulation|AH0 K Y UW2 M Y AH0 L EY1 SH AH0 N
+board|B AO1 R D
+hoards|HH AO1 R D Z
+hoarse|HH AO1 R S
+horse|HH AO1 R S
+harsh|HH AA1 R SH
+coarse|K AO1 R S
+hoarser|HH AO1 R S ER0
+hold|HH OW1 L D
+holed|HH OW1 L D
+grip|G R IH1 P
+bold|B OW1 L D
+mold|M OW1 L D
+holy|HH OW1 L IY0
+holey|HH OW1 L IY0
+divine|D IH0 V AY1 N
+bowly|B OW1 L IY0
+coly|K OW1 L IY0
+inn|IH1 N
+in|IH1 N
+hostel|HH AA1 S T AH0 L
+an|AE1 N
+ann|AE1 N
+incite|IH2 N S AY1 T
+insight|IH1 N S AY2 T
+agitate|AE1 JH AH0 T EY2 T
+inside|IH0 N S AY1 D
+incide|AH0 N S AY1 D
+jewel|JH EH1 V EH1 L
+lewel|L UW1 AH0 L
+joule|JH UW1 L
+gem|JH EH1 M
+jewels|JH UW1 L Z
+need|N IY1 D
+kneed|N IY1 D
+commitment|K AH0 M IH1 T M AH0 N T
+cede|S IY1 D
+deed|D IY1 D
+knit|N IH1 T
+nit|N IH1 T
+sew|S OW1
+cate|K EY1 T
+net|N EH1 T
+leak|L IY1 K
+leek|L IY1 K
+crack|K R AE1 K
+beak|B IY1 K
+aleak|AH0 L IY1 K
+lean|L IY1 N
+lien|L IY1 N
+incline|IH0 N K L AY1 N
+bean|B IY1 N
+dean|D IY1 N
+lesson|L EH1 S AH0 N
+lessen|L EH1 S AH0 N
+practice|P R AE1 K T IH0 S
+listen|L IH1 S AH0 N
+lesion|L IY1 ZH AH0 N
+liable|L AY1 AH0 B AH0 L
+libel|L AY1 B EH0 L
+accountable|AH0 K AW1 N AH0 B AH0 L
+buyable|B AY1 AH0 B AH0 L
+likable|L AY1 K AH0 B AH0 L
+liar|L AY1 ER0
+lyre|L AY1 R
+cheat|CH IY1 T
+buyer|B AY1 ER0
+fiar|F AY1 ER0
+lie|L AY1
+lye|L AY1
+deceit|D AH0 S IY1 T
+awee|AH0 W IY1
+die|D AY1
+loan|L OW1 N
+lone|L OW1 N
+credit|K R EH1 D AH0 T
+bone|B OW1 N
+moan|M OW1 N
+maid|M EY1 D
+made|M EY1 D
+servant|S ER1 V AH0 N T
+bade|B EY1 D
+caid|K EY1 D
+mall|M AO1 L
+maul|M AO1 L
+marketplace|M AA1 R K IH0 T P L EY2 S
+ball|B AO1 L
+all|AO1 L
+martial|M AA1 R SH AH0 L
+martian|M AA1 R SH AH0 N
+marshall|M AA1 R SH AH0 L
+military|M IH1 L AH0 T EH2 R IY0
+farcial|M AA1 R SH AH0 N
+partial|P AA1 R SH AH0 L
+mast|M AE1 S T
+massed|M AE1 S T
+pole|P OW1 L
+bast|B AE1 S T
+ast|AE1 S T
+missed|M IH1 S T
+mist|M IH1 S T
+lost|L AO1 S T
+awest|AWEST
+misled|M IH0 S L EH1 D
+moan|M OW1 N
+mown|M OW1 N
+whine|HH W AY1 N
+bone|B OW1 N
+loan|L OW1 N
+mode|M OW1 D
+mowed|M OW1 D
+style|S T AY1 L
+baud|B AO1 D
+bode|B OW1 D
+mood|M UW1 D
+mooed|M UW1 D
+feeling|F IY1 L IH0 NG
+bood|B UW1 D
+MOOC|M UW K
+moose|M UW1 S
+mousse|M UW1 S
+deer|D IH1 R
+boose|B UW1 S
+boose|B UW1 S
+won|W AA1 N
+one|HH W AH1 N
+achieved|AH0 CH IY1 V D
+bon|B AA1 N
+bon|B AA1 N
+pause|P AO1 Z
+paws|P AO1 Z
+stop|S T AA1 P
+cause|K AO1 Z
+pauses|P AO1 Z AH0 Z
+peer|P IH1 R
+pier|P IH1 R
+associate|AH0 S OW1 SH IY0 EY2 T
+ar|AA1 R
+beer|B IH1 R
+pie|P AY1
+pi|P AY1
+cake|K EY1 K
+awee|AH0 W IY1
+die|D AY1
+pistol|P IH1 S T AH0 L
+pistil|P IH1 S T AH0 L
+firearm|F AY1 ER0 AA2 R M
+acetal|EY1 S EY0 T AH0 L
+pistols|P IH1 S T AH0 L Z
+pleas|P L IY1 Z
+please|P IY1
+appeals|AH0 P IY1 L Z
+allies|AE1 L AY0 Z
+plea|P L IY1
+poor|P UW1 R
+pore|P AO1 R
+indigent|IH1 N D IH0 JH AH0 N T
+azure|AE1 ZH ER0
+boor|B UH1 R
+praise|P R EY1 Z
+preys|P R EY1 Z
+acclaim|AH0 K L EY1 M
+braise|B R EY1 Z
+raise|R EY1 Z
+presents|P R EH1 Z AH0 N T S
+presence|P R EH1 Z AH0 N S
+gifts|G IH1 F T S
+present|P ER0 Z EH1 N T
+presented|P R IY0 Z EH1 N T AH0 D
+pride|P R AY1 D
+pried|P R AY1 D
+dignity|D IH1 G N AH0 T IY0
+ride|R AY D
+bride|B R AY1 D
+principal|P R IH1 N S AH0 P AH0 L
+principle|P R IH1 N S AH0 P AH0 L
+main|M EY1 N
+principals|P R IH1 N S AH0 P AH0 L Z
+principally|P R IH1 N S IH0 P L IY0
+racket|R AE1 K IH0 T
+racquet|R AE1 K IH0 T
+extortion|EH0 K S T AO1 R SH AH0 N
+bucket|B AH K IH T
+rackets|R AE1 K AH0 T S
+rain|R EY1 N
+reign|R EY1 N
+precipitation|P R IH0 S IH2 P IH0 T EY1 SH AH0 N
+bain|B EY1 N
+reign|R EY1 N
+rain|R EY1 N
+dynasty|D AY1 N AH0 S T IY0
+bain|B EY1 N
+deign|D EY1 N
+raise|R EY1 Z
+rays|R EY1 Z
+boost|B UW1 S T
+baize|B EY1 Z
+braise|B R EY1 Z
+reek|R IY1 K
+wreak|R IY1 K
+fetor|F EH1 T ER0
+beak|B IY1 K
+areek|AH0 R IY1 K
+wretch|R EH1 CH
+retch|R EH1 CH
+rascal|R AE1 S K AH0 L
+creche|K R EH1 SH
+etch|EH1 CH
+review|R IY2 V Y UW1
+revue|R IH0 V Y UW1
+analysis|AH0 N AE1 L IH0 S IH0 S
+bevue|B IH0 V Y UW1
+preview|P R IY1 V Y UW2
+rime|R AY1 M
+rhyme|R AY1 M
+frost|F R AO1 S T
+cyme|S AY1 M
+crime|K R AY1 M
+right|R AY1 T
+wright|R AY1 T
+correct|K ER0 EH1 K T
+bight|B AY1 T
+aright|AA0 R AY2 T
+road|R OW1 D
+rode|R OW1 D
+avenue|AE1 V AH0 N UW2
+baud|B AO1 D
+broad|B R AO1 D
+roam|R OW1 M
+Rome|R OW1 M
+ramble|R AE1 M B AH0 L
+come|K AH1 M
+foam|F OW1 M
+role|R OW1 L
+roll|R OW1 L
+act|AE1 K T
+pole|P OW1 L
+bole|B OW1 L
+root|R UW1 T
+route|R AW1 T
+foundation|F AW0 N D EY1 SH AH0 N
+boot|B UW1 T
+hoot|HH UW1 T
+rough|R AH1 F
+ruff|R AH1 F
+irregular|IH0 R EH1 G Y AH0 L ER0
+beau|B OW1
+bough|B AW1
+rout|R AW1 T
+route|R AW1 T
+shutout|SH AH1 T AW2 T
+bout|B AW1 T
+out|AW1 T
+rue|R UW1
+roux|R UW1
+regret|R IH0 G R EH1 T
+boo|B UW1
+cue|K Y UW1
+rye|R AY1
+wry|R AY1
+grain|G R EY1 N
+by|B AY1
+aye|AY1
+sacks|S AE1 K S
+sax|S AE1 K S
+fires|F AY1 ER0 Z
+facks|F AE2 K S
+hacks|HH AE1 K S
+seam|S IY1 M
+seem|S IY1 M
+joint|JH OY1 N T
+beam|B IY1 M
+team|T IY1 M
+sear|S IH1 R
+seer|S IY1 R
+toast|T OW1 S T
+ar|AA1 R
+near|N IH1 R
+seize|S IY1 Z
+seas|S IY1 Z
+catch|K AE1 CH
+chais|CH AY1 Z
+seine|S EY1 N
+surge|S ER1 JH
+serge|S ER1 JH
+increase|IH0 N K R IY1 S
+dirge|D ER1 JH
+urge|ER1 JH
+sick|S IH1 K
+sic|S IH1 K
+ill|IH1 L
+ake|EY1 K
+ick|IH1 K
+size|S AY1 Z
+sighs|S AY1 Z
+dimensions|D IH0 M EH1 N SH AH0 N Z
+chais|CH AY1 Z
+side|S AY1 D
+sign|S AY1 N
+sine|S AY1 N
+manifestation|M AE2 N AH0 F EH0 S T EY1 SH AH0 N
+bine|B AY0 N
+sigh|S AY1
+slay|S L EY1
+sleigh|S L EY1
+assassinate|AH0 S AE1 S AH0 N EY2 T
+play|P L EY1
+lay|L EY1
+slow|S L OW1
+sloe|S L OW1
+lethargic|L AH0 TH AA1 R JH IH0 K
+alo|AA1 L OW0
+blow|B L OW1
+soar|S AO1 R
+sore|S AO1 R
+ascend|AH0 S EH1 N D
+choir|K W AY1 ER0
+oar|AO1 R
+soared|S AO1 R D
+sword|S AO1 R D
+escalated|EH1 S K AH0 L EY2 T IH0 D
+board|B AO1 R D
+oared|AO1 R D
+son|S AH1 N
+sun|S AH1 N
+boy|B OY1
+bon|B AA1 N
+on|AO1 N
+sunny|S AH1 N IY0
+sonny|S AH1 N IY0
+luminous|L UW1 M AH0 N AH0 S
+bunny|B AH1 N IY0
+funny|F AH1 N IY0
+stake|S T EY1 K
+steak|S T EY1 K
+pole|P OW1 L
+slake|S L EY1 K
+sake|S EY1 K
+stationary|S T EY1 SH AH0 N EH2 R IY0
+stationery|S T EY1 SH AH0 N EH2 R IY0
+fixed|F IH1 K S T
+stationarity|S T EY0 SH AH0 N AE1 R IH0 T IY0
+strade|S T R EY1 D
+stationer|S T EY1 SH AH0 N ER0
+straight|S T R EY1 T
+strait|S T R EY1 T
+honest|AA1 N AH0 S T
+strayed|S T R EY1 D
+strain|S T R EY1 N
+summary|S AH1 M ER0 IY0
+summery|S AH1 M ER0 IY0
+essence|EH1 S AH0 N S
+mummery|M AH1 M ER0 IY0
+nummary|N Y UW1 M AH0 R EH2 R IY
+tax|T AE1 K S
+tacks|T AE1 K S
+contribution|K AA2 N T R AH0 B Y UW1 SH AH0 N
+facks|F AE2 K S
+rax|R AE1 K S
+tear|T EH1 R
+tare|T AA1 R IY0
+hole|HH OW1 L
+ar|AA1 R
+dear|D IH1 R
+taut|T AO1 T
+taught|T AO1 T
+tight|T AY1 T
+bought|B AA1 T
+tat|T AE T
+team|T IY1 M
+teem|T IY1 M
+crew|K R UW1
+beam|B IY1 M
+ream|R IY1 M
+tease|T IY1 Z
+tees|T IY1 Z
+provoke|P R AH0 V OW1 K
+bees|B IY1 Z
+ease|IY1 Z
+tighten|T AY1 T AH0 N
+titan|T AY1 T AH0 N
+narrow|N EH1 R OW0
+chiton|CH IH1 T AH0 N
+lighten|L AY1 T AH0 N
+told|T OW1 L D
+tolled|T OW1 L D
+said|S EH1 D
+bold|B OW1 L D
+old|OW1 L D
+tune|T UW1 N
+toon|T UW1 N
+melody|M EH1 L AH0 D IY0
+boon|B UW1 N
+atune|AH0 T UW1 N
+tracked|T R AE1 K T
+tract|T R AE1 K T
+trailed|T R EY1 L D
+bract|B R AE1 K T
+cracked|K R AE1 K T
+troop|T R UW1 P
+troupe|T R UW1 P
+army|AA1 R M IY0
+choop|CH UW1 P
+droop|D R UW1 P
+trust|T R AH1 S T
+trussed|T R AH1 S T
+confidence|K AA1 N F AH0 D AH0 N S
+arrased|AE1 R AH0 S T
+crust|K R AH1 S T
+use|Y UW1 Z
+ewes|Y UW1 Z
+utilize|Y UW1 T AH0 L AY2 Z
+booze|B UW1 Z
+muse|M Y UW1 Z
+vary|V EH1 R IY0
+very|V EH1 R IY0
+change|CH EY1 N JH
+barie|B EH1 R IY0
+mary|M EH1 R IY0
+verses|V ER1 S IH0 Z
+versus|V ER1 S AH0 Z
+poems|P OW1 AH0 M Z
+verse|V ER1 S
+erse|ER1 S
+wine|W AY1 N
+whine|HH W AY1 N
+alcohol|AE1 L K AH0 HH AA2 L
+bine|B AY0 N
+line|L AY1 N
+arain|AH0 R EY1 N
