@@ -21,13 +21,13 @@ This repository contains the **code, data, and experiments** associated with our
   - `extract_ipa.py` → extract IPA from a single `.csv` or `.txt` file.  
   - `extract_ipas.py` → extract IPA from multiple text files.  
 - A pre-transcribed version of the dataset in IPA is already available at:  
-  [`data/PSET/IPA/PSET.csv`](dataset/PSET/IPA/PSET.csv).  
+  [`data/PSET/IPA/PSET.csv`](data/PSET/IPA/PSET.csv).  
 
 ### ARPAbet Extraction  
 - For **ARPAbet** transcriptions, we used code from [johnpaulbin’s repository](https://github.com/johnpaulbin), also available on [Kaggle](https://www.kaggle.com/datasets/coldfir4/arpabet?resource=download).  
 - We extended this resource by manually integrating missing words.  
 - The complete, verified ARPAbet transcriptions are available at:  
-  [`data/PSET/ARPA/PSET.txt`](dataset/PSET/ARPA/PSET.txt).  
+  [`data/PSET/ARPA/PSET.txt`](data/PSET/ARPA/PSET.txt).  
 - A few words were manually transcribed by us when they were not found in the CMU dictionary.  
 
 ---
@@ -47,7 +47,7 @@ This repository contains the **code, data, and experiments** associated with our
 
 ### Contextual Embeddings  
 - For contextual embeddings, follow the detailed guide in:  
-  [`extract_embeddings/contextual/extract_contextual_embs.md`](Contextual/extract_contextual_embs.md)  
+  [`extract_embeddings/contextual/extract_contextual_embs.md`](extract_embeddings/contextual/extract_contextual_embs.md)  
 
 
 ---
