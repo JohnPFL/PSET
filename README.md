@@ -53,7 +53,7 @@ This repository contains the **code, data, and experiments** associated with our
 ---
 ### 3. PSET: using the dataset 
 
-- `run_pset_test` → To extract the final results, simply run [`cosine_test/run_pset_test.py`](cosine_test/run_pset_test.py). Follow the documentation inside of the file.
+- `run_pset_test` → To extract the final results, simply run [`scripts/cosine_test/run_pset_test.py`](scripts/cosine_test/run_pset_test.py). Follow the documentation inside of the file.
 
 ---
 
