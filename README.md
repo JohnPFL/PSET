@@ -47,7 +47,7 @@ This repository contains the **code, data, and experiments** associated with our
 
 ### Contextual Embeddings  
 - For contextual embeddings, follow the detailed guide in:  
-  [`extract_embeddings/contextual/extract_contextual_embs.md`](extract_embeddings/contextual/extract_contextual_embs.md)  
+  [`scripts/extract_embeddings/contextual/extract_contextual_embs.md`](scripts/extract_embeddings/contextual/extract_contextual_embs.md)  
 
 
 ---
